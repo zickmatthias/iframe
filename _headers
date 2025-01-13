@@ -1,6 +1,9 @@
 /*
+  X-Frame-Options: ALLOWALL
+  Content-Security-Policy: frame-ancestors 'self' https://iframe-3cg.pages.dev https://360-8zy.pages.dev;
   Access-Control-Allow-Origin: https://360-8zy.pages.dev
   Access-Control-Allow-Methods: GET, POST, OPTIONS
   Access-Control-Allow-Headers: Content-Type, Authorization, X-Requested-With
   Access-Control-Allow-Credentials: true
   Access-Control-Expose-Headers: Content-Length, Content-Range
+
